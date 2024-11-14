@@ -1,0 +1,221 @@
+[
+    {
+        "idProd": 0,
+        "categoria": "monitores-vitales",
+        "nombre": "Philips IntelliVue MP5",
+        "imagen": "Philips IntelliVue MP5.webp",
+        "descripcion": "Descripción: El Philips IntelliVue MP5 es un monitor compacto y portátil que proporciona medición de parámetros vitales como ECG, SpO2, presión arterial no invasiva (NIBP) y temperatura. Pantalla a color de 8.4 pulgadas, opciones de monitoreo modular, portátil y fácil de transportar. Funciones avanzadas de análisis de datos.",
+        "precio": 4500,
+        "stock": 30
+    },
+    {
+        "idProd": 1,
+        "categoria": "monitores-vitales",
+        "nombre": "Mindray BeneVision N17",
+        "imagen": "Mindray BeneVision N17.webp",
+        "descripcion": "Descripción: El BeneVision N17 de Mindray es un monitor multiparamétrico para uso hospitalario. Pantalla táctil de 15 pulgadas, monitoreo de hasta 12 parámetros, funciones de conectividad y almacenamiento de datos, alarmas visuales y sonoras ajustables.",
+        "precio": 5000,
+        "stock": 50
+    },
+    {
+        "idProd": 2,
+        "categoria": "monitores-vitales",
+        "nombre": "Nihon Kohden Life Scope G9",
+        "imagen": "Nihon Kohden Life Scope G9.webp",
+        "descripcion": "Descripción: El Life Scope G9 es un monitor de alto rendimiento utilizado en áreas críticas. Pantalla LCD de alta resolución, monitoreo de ECG, SpO2, presión arterial, CO2, etc. Interfaz fácil de usar, almacenamiento de tendencias y eventos.",
+        "precio": 6500,
+        "stock": 20
+    },
+    {
+        "idProd": 3,
+        "categoria": "monitores-vitales",
+        "nombre": "GE Healthcare CARESCAPE V100",
+        "imagen": "GE Healthcare CARESCAPE V100.webp",
+        "descripcion": "Descripción: El CARESCAPE V100 de GE Healthcare es un monitor versátil y portátil. Pantalla táctil de 10.1 pulgadas, monitoreo de parámetros como ECG, SpO2, temperatura, presión arterial y frecuencia respiratoria. Batería de larga duración y sistema modular.",
+        "precio": 4000,
+        "stock": 18
+    },
+    {
+        "idProd": 4,
+        "categoria": "monitores-vitales",
+        "nombre": "Schiller C3",
+        "imagen": "Schiller C3.webp",
+        "descripcion": "Descripción: El Schiller C3 es un monitor compacto y portátil para emergencias y cuidados generales. Pantalla TFT a color, monitoreo de ECG, SpO2, presión arterial y temperatura. Alarmas personalizadas y fácil manejo.",
+        "precio": 3500,
+        "stock": 38
+    },
+    {
+        "idProd": 5,
+        "categoria": "monitores-vitales",
+        "nombre": "Welch Allyn Connex Spot Monitor",
+        "imagen": "Welch Allyn Connex Spot Monitor.webp",
+        "descripcion": "Descripción: El Connex Spot Monitor de Welch Allyn es ideal para la medición de signos vitales en consultas clínicas. Pantalla táctil de 5.7 pulgadas, monitoreo de SpO2, presión arterial, temperatura y frecuencia cardíaca. Reportes y almacenamiento automático de los datos.",
+        "precio": 2500,
+        "stock": 30
+    },
+    {
+        "idProd": 6,
+        "categoria": "monitores-vitales",
+        "nombre": "Cardiocare CCU-2500",
+        "imagen": "Cardiocare CCU-2500.webp",
+        "descripcion": "Descripción: El Cardiocare CCU-2500 es un monitor de signos vitales con pantalla LCD de 12.1 pulgadas. Medición de ECG, SpO2, NIBP y temperatura. Fácil manejo con interfaz intuitiva y alarmas ajustables.",
+        "precio": 3000,
+        "stock": 40
+    },
+    {
+        "idProd": 7,
+        "categoria": "monitores-vitales",
+        "nombre": "Draeger Fabius GS",
+        "imagen": "Draeger Fabius GS.webp",
+        "descripcion": "Descripción: El Draeger Fabius GS es un monitor anestésico también utilizado para monitoreo de signos vitales en intervenciones quirúrgicas. Pantalla táctil de 12.1 pulgadas, monitoreo de ECG, SpO2, CO2, presión arterial y otros parámetros. Integración con sistemas de gestión hospitalaria.",
+        "precio": 10000,
+        "stock": 50
+    },
+    {
+        "idProd": 8,
+        "categoria": "equipos-quirofano",
+        "nombre": "Luz Quirúrgica LED (Lite-Med 5000)",
+        "imagen": "Luz Quirúrgica LED Lite-Med 5000.webp",
+        "descripcion": "Descripción: Luz quirúrgica de alta calidad con tecnología LED, diseñada para ofrecer una excelente iluminación durante los procedimientos quirúrgicos. La intensidad de la luz es regulable, y su diseño permite un rango amplio de ajuste para asegurar que el área quirúrgica esté perfectamente iluminada. Tecnología LED de última generación, bajo consumo energético y durabilidad superior.",
+        "precio": 5500,
+        "stock": 20
+    },
+    {
+        "idProd": 9,
+        "categoria": "equipos-quirofano",
+        "nombre": "Camilla Quirúrgica Eléctrica (Stryker 1065)",
+        "imagen": "Camilla Quirúrgica Eléctrica Stryker 1065.webp",
+        "descripcion": "Descripción: Camilla quirúrgica eléctrica con ajuste de altura, inclinación y posición mediante control eléctrico. Diseñada para proporcionar comodidad tanto a los pacientes como a los profesionales de la salud durante los procedimientos quirúrgicos. Estructura robusta y ergonómica con ruedas de freno para mayor estabilidad.",
+        "precio": 12000,
+        "stock": 15
+    },
+    {
+        "idProd": 10,
+        "categoria": "equipos-quirofano",
+        "nombre": "Mesa de Instrumentos Quirúrgicos (PHS Medical)",
+        "imagen": "Mesa de Instrumentos Quirúrgicos PHS Medical.webp",
+        "descripcion": "Descripción: Mesa de instrumentos quirúrgicos fabricada en acero inoxidable, diseñada para soportar los equipos y herramientas necesarias durante una intervención. Su superficie es anti-deslizante y fácil de limpiar. Ruedas con freno para garantizar estabilidad y seguridad.",
+        "precio": 1800,
+        "stock": 25
+    },
+    {
+        "idProd": 11,
+        "categoria": "equipos-quirofano",
+        "nombre": "Respirador Artificial (Dräger Evita V300)",
+        "imagen": "Respirador Artificial Dräger Evita V300.webp",
+        "descripcion": "Descripción: El respirador artificial Dräger Evita V300 es un ventilador de cuidados intensivos de alto rendimiento, diseñado para suministrar ventilación mecánica controlada a pacientes durante procedimientos quirúrgicos o en unidades de cuidados intensivos. Monitoreo continuo de la respiración y opciones de ventilación volumétrica y de presión.",
+        "precio": 25000,
+        "stock": 10
+    },
+    {
+        "idProd": 12,
+        "categoria": "equipos-quirofano",
+        "nombre": "Desfibrilador (Philips HeartStart FR3)",
+        "imagen": "Desfibrilador Philips HeartStart FR3.webp",
+        "descripcion": "Descripción: Desfibrilador portátil utilizado para proporcionar descargas eléctricas a pacientes en paro cardíaco. El HeartStart FR3 es fácil de usar, con una pantalla que guía al personal médico durante su uso. Desfibrilación automática, batería de larga duración y guiado paso a paso.",
+        "precio": 3800,
+        "stock": 18
+    },
+    {
+        "idProd": 13,
+        "categoria": "cirugia-protesis",
+        "nombre": "Prótesis de Cadera (Biomet M2A Magnum)",
+        "imagen": "Prótesis de Cadera Biomet M2A Magnum.webp",
+        "descripcion": "Descripción: La prótesis de cadera Biomet M2A Magnum está diseñada para proporcionar una movilidad y funcionalidad óptimas a pacientes con artritis o lesiones de cadera. Este modelo se destaca por su durabilidad y capacidad de adaptación al cuerpo humano, ayudando a restaurar la calidad de vida.",
+        "precio": 12000,
+        "stock": 30
+    },
+    {
+        "idProd": 14,
+        "categoria": "cirugia-protesis",
+        "nombre": "Válvula Cardíaca Sintética (Carbomedics)",
+        "imagen": "Válvula Cardíaca Sintética Carbomedics.webp",
+        "descripcion": "Descripción: La válvula cardíaca sintética Carbomedics es ideal para pacientes con enfermedades valvulares graves. Fabricada con materiales biocompatibles, esta válvula sintética ofrece una excelente durabilidad y rendimiento en el corazón humano.",
+        "precio": 3500,
+        "stock": 25
+    },
+    {
+        "idProd": 15,
+        "categoria": "cirugia-protesis",
+        "nombre": "Tendón de Fibra de Carbono (Surgical Tendon Fiber)",
+        "imagen": "Tendón de Fibra de Carbono Surgical Tendon Fiber.webp",
+        "descripcion": "Descripción: El tendón de fibra de carbono es una prótesis tendinosa avanzada utilizada para reconstruir tendones dañados. Con una resistencia superior, estos tendones sintéticos proporcionan una mayor durabilidad y recuperación para los pacientes con desgarros o lesiones tendinosas.",
+        "precio": 1800,
+        "stock": 50
+    },
+    {
+        "idProd": 16,
+        "categoria": "cirugia-protesis",
+        "nombre": "Venas Sintéticas (Gore-Tex Vascular Grafts)",
+        "imagen": "Venas Sintéticas Gore-Tex Vascular Grafts.webp",
+        "descripcion": "Descripción: Los injertos vasculares sintéticos de Gore-Tex están diseñados para reemplazar venas o arterias dañadas o bloqueadas. Estos injertos se utilizan en cirugía vascular para mejorar la circulación y prevenir complicaciones relacionadas con la obstrucción arterial.",
+        "precio": 4500,
+        "stock": 20
+    },
+    {
+        "idProd": 17,
+        "categoria": "cirugia-protesis",
+        "nombre": "Tornillos de Fórmula Quirúrgica (Synthes Locking Screws)",
+        "imagen": "Tornillos de Fórmula Quirúrgica Synthes Locking Screws.webp",
+        "descripcion": "Descripción: Los tornillos de fijación quirúrgica Synthes son utilizados para la fijación de huesos y prótesis. Estos tornillos se emplean en cirugía ortopédica y traumatológica para estabilizar fracturas y unir huesos durante los procedimientos quirúrgicos.",
+        "precio": 600,
+        "stock": 100
+    },
+    {
+        "idProd": 18,
+        "categoria": "cirugia-protesis",
+        "nombre": "Malla de Contención Quirúrgica (Marlex Mesh)",
+        "imagen": "Malla de Contención Quirúrgica Marlex Mesh.webp",
+        "descripcion": "Descripción: La malla de contención Marlex es una malla sintética utilizada en procedimientos quirúrgicos como la reparación de hernias o en la estabilización de órganos internos. Su diseño facilita la cicatrización y previene recurrencias en casos de hernias abdominales.",
+        "precio": 900,
+        "stock": 40
+    },
+    {
+        "idProd": 19,
+        "categoria": "accesorios-clinicos",
+        "nombre": "Termómetro Clínico Digital (Omron MC-720)",
+        "imagen": "Termómetro Clínico Digital Omron MC-720.webp",
+        "descripcion": "Descripción: El termómetro digital Omron MC-720 es ideal para medir la temperatura corporal de manera rápida y precisa. Su pantalla grande y de fácil lectura, junto con su diseño ergonómico, lo hace perfecto para un uso rápido en clínicas y hospitales.",
+        "precio": 40,
+        "stock": 100
+    },
+    {
+        "idProd": 20,
+        "categoria": "accesorios-clinicos",
+        "nombre": "Estetoscopio (3M Littmann Classic III)",
+        "imagen": "Estetoscopio 3M Littmann Classic III.webp",
+        "descripcion": "Descripción: Estetoscopio de alta calidad, diseñado para proporcionar una excelente acústica en la auscultación cardíaca y pulmonar. El modelo Littmann Classic III es muy utilizado en hospitales y consultorios por su precisión y comodidad.",
+        "precio": 250,
+        "stock": 50
+    },
+    {
+        "idProd": 21,
+        "categoria": "accesorios-clinicos",
+        "nombre": "Monitor de Presión Arterial (Omron HBP-1300)",
+        "imagen": "Monitor de Presión Arterial Omron HBP-1300.webp",
+        "descripcion": "Descripción: Sistema de monitoreo digital de presión arterial de uso clínico, ideal para hospitales y clínicas. Ofrece mediciones rápidas y precisas de la presión arterial con un solo botón. Su diseño compacto y de fácil uso permite un monitoreo eficiente.",
+        "precio": 300,
+        "stock": 30
+    },
+    {
+        "idProd": 22,
+        "categoria": "accesorios-clinicos",
+        "nombre": "Guantes de Inspección (Medline Non-Latex)",
+        "imagen": "Guantes de Inspección Medline Non-Latex.webp",
+        "descripcion": "Descripción: Guantes de examen desechables, sin látex, que ofrecen una protección efectiva para los profesionales de la salud y los pacientes. Son altamente resistentes, cómodos y tienen una excelente elasticidad para un ajuste seguro.",
+        "precio": 15,
+        "stock": 200
+    },
+    {
+        "idProd": 23,
+        "categoria": "accesorios-clinicos",
+        "nombre": "Bolsa de Hielo Reutilizable (Thermotech Ice Pack)",
+        "imagen": "Bolsa de Hielo Reutilizable Thermotech Ice Pack.webp",
+        "descripcion": "Descripción: Bolsa de hielo reutilizable diseñada para proporcionar alivio en lesiones musculares y articulares. Fabricada con materiales de alta calidad, es ideal para uso clínico y doméstico para reducir la inflamación y el dolor.",
+        "precio": 20,
+        "stock": 150
+    }
+]
+
+
+
